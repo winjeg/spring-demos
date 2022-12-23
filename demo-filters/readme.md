@@ -4,3 +4,8 @@
 
 - interceptor 与 interceptor chain
 
+- dispatcher servlet
+
+
+filter (order) -> dispatcher -> interceptor
+
